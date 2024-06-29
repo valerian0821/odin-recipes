@@ -1,0 +1,43 @@
+* {
+    font-family: Verdana, 'Times New Roman', sans-serif;
+    background-color: #ebae4b;
+    margin-left: 25px;
+    margin-right: 10px;
+    box-sizing: border-box;
+}
+
+img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 400px;
+    width: auto;
+
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+div {
+    border: 2 px solid black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: 0px;
+}
+
+.main-heading {
+    text-align: center;
+    font-size: 30px;
+    margin-left: 0px;
+    margin-bottom: 30px;
+}
+
+.sub-heading {
+    text-align: left;
+    font-size: 25px;
+}
+
+#centre-align {
+    text-align: center;
+}
+
